@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "imc",
+    "slug": "app-teste",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#202024"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#202024"
+      },
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.raulbraga.imccalculator"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "77df9d2f-32ca-4a91-b611-002b33bb890d"
+      }
+    }
+  }
+}
