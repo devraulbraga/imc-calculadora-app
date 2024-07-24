@@ -52,7 +52,7 @@ export function Home() {
       <Content>
         <Icon />
         <HightLight
-          title="IMC Calculadora"
+          title="Calculadora IMC"
           subTitle="Calcule seu Indice de Massa Corporal"
         />
         <Form>
