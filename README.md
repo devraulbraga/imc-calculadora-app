@@ -22,5 +22,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
-  <small>Desenvolvido por Raul Lopes - Julho/2024</small>
+  <small>Desenvolvido por Raul Lopes Braga - Julho/2024</small>
   </div>
